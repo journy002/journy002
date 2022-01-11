@@ -2,11 +2,11 @@
 ### 프론트엔드 개발자 준비생 오문석 입니다. 👋
 ### Hello, I'm Frontend developer Munseok Oh.
 
-## - 경력 : 1년 (SI)
-## - 프로젝트 경험 - 
-### SK - mySuni : (REACT, HTML5, CSS3, Git, Photoshop, zeplin) , 웹퍼블리싱 작업
-### SK - SKbroadband : (HTML5, CSS3, JS, SVN, Photoshop) , 웹퍼블리싱 작업
-### 비상교육 - masterK : (HTML5, CSS3, Photoshop) , 웹퍼블리싱 작업
+### - 경력 : 1년 (SI)
+### - 프로젝트 경험 - 
+#### SK - mySuni : (REACT, HTML5, CSS3, Git, Photoshop, zeplin) , 웹퍼블리싱 작업
+#### SK - SKbroadband : (HTML5, CSS3, JS, SVN, Photoshop) , 웹퍼블리싱 작업
+#### 비상교육 - masterK : (HTML5, CSS3, Photoshop) , 웹퍼블리싱 작업
 #### 비상교육 - 티키토키 : (HTML5, CSS3, Photoshop) , 웹퍼블리싱 작업
 
 <!--
