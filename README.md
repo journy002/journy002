@@ -1,10 +1,17 @@
 ### 안녕하세요.
 ### 오문석 입니다. 👋
 
-### - 경력 : 1년 (SI)
-### - 프로젝트 경험 - 
-#### SK - mySuni : (REACT, HTML5, CSS3, Git, Photoshop, zeplin) , 웹퍼블리싱 작업 4개월
+### - 경력 : 1년 2개월 (SI)
+### - 프로젝트 경험 -
+
+### 운영
 #### SK - SKbroadband : (HTML5, CSS3, JS, SVN, Photoshop) , 웹퍼블리싱 작업 4개월
+#### 아시아나항공 - mySuni : (REACT, HTML5, CSS3, Git, Photoshop, zeplin) , 웹퍼블리싱 작업 4개월
+#### 쌤소나이트 - mySuni : (REACT, HTML5, CSS3, Git, Photoshop, zeplin) , 웹퍼블리싱 작업 4개월
+#### 로레알 - mySuni : (REACT, HTML5, CSS3, Git, Photoshop, zeplin) , 웹퍼블리싱 작업 4개월
+
+### 구축
+#### SK - mySuni : (REACT, HTML5, CSS3, Git, Photoshop, zeplin) , 웹퍼블리싱 작업 4개월
 #### 비상교육 - masterK : (HTML5, CSS3, Photoshop) , 웹퍼블리싱 작업 2개월
 #### 비상교육 - 티키토키 : (HTML5, CSS3, Photoshop) , 웹퍼블리싱 작업 1개월
 
