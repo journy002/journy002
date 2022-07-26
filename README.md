@@ -1,13 +1,16 @@
 ### 안녕하세요.
 ### 오문석 입니다. 👋
 
-### - 경력 : 1년 3개월
+### - 경력 : 1년 7개월
 ### - 프로젝트 경험 -
 
 ### 구축
 #### SK - mySuni : (REACT, HTML5, CSS3, Git, Photoshop, zeplin) / UI개발 4개월
 #### 비상교육 - masterK : (HTML5, CSS3, Photoshop) / UI개발 2개월
 #### 비상교육 - 티키토키 : (HTML5, CSS3, Photoshop) / UI개발 1개월
+
+### 리뉴얼
+#### MetLife Foundation : (HTML5, CSS3, GitLab, Sourcetree) / UI개발 3개월
 
 ### 운영
 #### SK - SKbroadband : (HTML5, CSS3, JS, SVN, Photoshop) / UI개발 4개월
